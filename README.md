@@ -1,4 +1,4 @@
-### Hi there 👋 I am Marmik Upadhyay , I am -
+### Hi there <img src="https://github.com/PriyanshuDangi/marmikupadhyay/blob/master/Hi.gif" width="29px"> I am Marmik Upadhyay , I am -
 
 - A Sophomore pursuing CSE at National Institiute Of Technology , Tiruchirappalli
 - A Web Developer
